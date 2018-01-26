@@ -37,6 +37,12 @@
 				case 'creategame':
 					creategame();
 				break;
+				case 'newgame':
+					newgame();
+				break;
+				case 'editgame':
+					editgame();
+				break;
 				default:
 					
 				break;
